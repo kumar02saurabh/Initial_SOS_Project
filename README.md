@@ -74,7 +74,6 @@ IGN OFF  IGN ON   SOS
 
 * C Programming
 * GCC Compiler
-* Linux System Calls
 * sleep() function from `<unistd.h>`
 
 ---
